@@ -1,1 +1,4 @@
-# voice-rooms-app
+
+# Voice Rooms App - Frontend Only
+
+واجهة بسيطة لعرض تطبيق غرف صوتية. هذه نسخة أولية يمكن تطويرها لاحقًا.
